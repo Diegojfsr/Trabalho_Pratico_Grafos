@@ -28,13 +28,17 @@ apresentar um algoritmo aplicado a grafos em forma de seminario
 <h2 dir="auto"> 🔗 Links Úteis </h2>
 <ul dir="auto">
   
-  <li><a href="https://router.vuejs.org/"> Documentação Vue Router. </a></li>
-  <li><a href="https://vuex.vuejs.org/"> Documentação Vuex. </a></li>
-  <li><a href="https://vuejs.org/"> Documentação Vus JS. </a></li>
-  <li><a href="https://nodejs.org/en/"> Documentação Node JS. </a></li>
-  <li><a href="https://code.visualstudio.com/"> Como instalar o VS Code. </a></li>
-  <li><a href="https://codepen.io/pen/"> codepen.io </a></li>
-  
+  <li><a href="https://www.youtube.com/watch?v=RgooqzT1DzA"> Algoritmo de Dijkstra (Caminho mínimo em grafos). </a></li>
+  <li><a href="https://www.youtube.com/watch?v=dIjGG_1vJYQ"> Algoritmo de caminho mais curto (ou do menor caminho) de Dijkstra. </a></li>
+  <li><a href="https://www.youtube.com/watch?v=LmGRAIpF28Q"> Pesquisa Operacional II - Aula 27 - O Problema do Caminho Mínimo - Algoritmo de Dijkstra. </a></li>
+  <li><a href="https://repositorio.ufu.br/bitstream/123456789/32224/1/SistemaC%C3%A1lculoRotas.pdf"> Sistema para cálculo de rotas de caminho mínimo . </a></li>
+  <li><a href="https://www.youtube.com/watch?v=fdqxetN9YPA"> Grafos com Python - Algoritmo de Dijkstra - Aula 21 de Grafos. </a></li>
+  <li><a href="https://www.udacity.com/blog/2021/10/implementing-dijkstras-algorithm-in-python.html"> Implementando o Algoritmo de Dijkstra em Python Udacity.</a></li>
+  <li><a href="https://algoritmosempython.com.br/cursos/algoritmos-python/algoritmos-grafos/intro-caminhos-minimos/"> Caminhos Mínimos em Grafos. </a></li>
+  <li><a href="https://docs.ufpr.br/~volmir/PO_II_10_caminho_minimo.pdf"> Problema do Caminho Mínimo. </a></li>
+  <li><a href="https://www.youtube.com/watch?v=mbMbGjX45_E"> Algoritmo A* | Como um robô encontra uma rota usando Inteligência Artificial. </a></li>
+  <li><a href="https://www.youtube.com/watch?v=SBcwxK70xIM"> Algoritmo A* (Algoritmo Pathfinding). </a></li>
+  <li><a href="http://www.deinf.ufma.br/~portela/ed211_Dijkstra.pdf"> Dijkstra.ppt [Modo de Compatibilidade]. </a></li>
 </ul>
 
 <h2 dir="auto"> 🔗 Repositórios Úteis </h2>
